@@ -6,10 +6,10 @@ Originally published at [DataSet.Merge and RaiseMergeFailed](https://blogs.msdn.
 
 ## Building
 
-```text
-csc Program.cs
-Program.exe
-```
+<!-- Console -->
+
+    csc Program.cs
+    Program.exe
 
 ## Note
 
